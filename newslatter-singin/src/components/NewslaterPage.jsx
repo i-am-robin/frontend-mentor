@@ -31,7 +31,7 @@ function NewslaterPage() {
   };
 
   return (
-    <div className="m-auto flex h-full w-full flex-col justify-between gap-4 bg-white mx-3 lg:h-fit lg:w-fit lg:flex-row-reverse lg:rounded-2xl lg:p-4 lg:shadow-xl">
+    <div className="m-auto flex h-full w-full flex-col justify-between gap-4 bg-white mx-3 lg:mx-0 lg:h-fit lg:w-fit lg:flex-row-reverse lg:rounded-2xl lg:p-4 lg:shadow-xl">
       <div className="relative flex h-fit  w-full align-top lg:relative lg:flex-1 lg:align-middle">
         <Image
           className="h-full w-full lg:hidden"
